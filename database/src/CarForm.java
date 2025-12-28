@@ -3,7 +3,7 @@ import javax.swing.table.DefaultTableModel; // data structure and updates for th
 import java.awt.*; // layouts, colors, fonts, and window events
 import java.sql.*; // jdbc
 
-// main window of the application isik deneme
+// main window of the application
 public class CarForm extends JFrame {
 
     private JTextField txtBrand;
